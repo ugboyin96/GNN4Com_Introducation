@@ -10,4 +10,4 @@ This project aims at introducing graph neural networks and [Deep Graph Library](
 - Folder **D2D** implemented MLP, Edge convolution, and proposed GNN for D2D power control.
 - Folder **Cell-free** implemented MLP, Heterogenous GNN, and proposed GNN for power control in cell-free massive MIMO.
 - Folder **Hybrid** implemented MLP and proposed unrolling method for hybrid precoding.
-- The dataset used in the paper can be downloade at [this link](https://drive.google.com/file/d/1ZcuaRiU0BIyjnUxE7DCaP3B2vRCPD6N7/view?usp=sharing "this link").
+- The dataset used in the paper can be downloaded at [this link](https://drive.google.com/file/d/1ZcuaRiU0BIyjnUxE7DCaP3B2vRCPD6N7/view?usp=sharing "this link").
